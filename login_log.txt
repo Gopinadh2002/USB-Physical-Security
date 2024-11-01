@@ -1,0 +1,2 @@
+2024-11-01 10:27:34,710 - INFO - Login Successful for user: leela@gmail.com
+2024-11-01 10:27:34,711 - INFO - Login details: Username=leela@gmail.com
